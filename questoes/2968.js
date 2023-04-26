@@ -1,4 +1,4 @@
-const arq = require("fs").readFileSync(__dirname + "/stdin", "utf8")
+const arq = require("fs").readFileSync("/dev/stdin", "utf8")
 const [ quantVoltas, quantPlacas ] = arq.split(" ").map(valor => parseInt(valor))
 
 const totalPlacas = quantPlacas * quantVoltas // 100%

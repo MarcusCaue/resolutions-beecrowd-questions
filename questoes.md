@@ -32,7 +32,7 @@
   </li>
 
   <li class="task-list-item">
-    <input type="checkbox" class="task-list-item-checkbox">  
+    <input type="checkbox" class="task-list-item-checkbox" checked>  
     <a href="https://www.beecrowd.com.br/judge/pt/problems/view/2968" rel="nofollow">2968</a> - Hora da Corrida <em>Iniciante</em>
   </li>
 
